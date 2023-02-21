@@ -85,7 +85,7 @@ ul, li, a {
 /*----START SECTION OF ASIDE----*/
 aside {
     width: 100vw;
-    height: 50vh;
+    height: 60vh;
     background: yellowgreen;
     padding: 165px;
 
@@ -119,10 +119,11 @@ aside p {
 
 footer {
     width: 100vw;
-    height: 23vh;
+    height: 21vh;
     background: #1e070761;
     display: flex;
     justify-content: center;
+    align-items: flex-end;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
